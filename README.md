@@ -31,8 +31,8 @@ Open to **OJT and junior developer roles** in Bulacan, Metro Manila or remote.
     <td width="50%" valign="top">
       <a href="https://github.com/Matimbu/kiosk-TheHive"><img src="https://raw.githubusercontent.com/Matimbu/portfolio/main/images/kiosk/v2/language.png" alt="The Hive kiosk menu in English and Filipino"></a>
       <h4>The Hive Kiosk</h4>
-      Self-order kiosk for a cafe, every screen drawn by hand. My teammates built the main POS; I built the kiosk.<br>
-      <sub>Group project &nbsp;|&nbsp; C#, WinForms, GDI+</sub>
+      Self-order kiosk for a cafe, built in C# and WinForms. My teammates built the main POS; I built the kiosk.<br>
+      <sub>Group project &nbsp;|&nbsp; C#, WinForms</sub>
     </td>
   </tr>
   <tr>
@@ -60,7 +60,7 @@ Open to **OJT and junior developer roles** in Bulacan, Metro Manila or remote.
 
 **Core**<br>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,html,css,js,nodejs,sqlite,bootstrap" alt="C#, .NET, Java, HTML, CSS, JavaScript, Node.js, SQLite, Bootstrap"><br>
-<sub>Also WinForms and GDI+</sub>
+<sub>Also WinForms</sub>
 
 **Familiar with**<br>
 <img src="https://skillicons.dev/icons?i=nextjs,postgres,git,unity,blender,figma" alt="Next.js, PostgreSQL, Git, Unity, Blender, Figma"><br>
