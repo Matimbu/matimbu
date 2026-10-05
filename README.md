@@ -12,7 +12,7 @@ I learn by building something real and working out where I get stuck.
 <a href="mailto:raywelfrancismartin@gmail.com"><img src="https://img.shields.io/badge/Email_me-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
 <a href="https://matimbu.github.io/raywelfrancismartin/"><img src="https://img.shields.io/badge/Off_the_Clock-FF5A1F?style=for-the-badge&logo=youtube&logoColor=white" alt="Off the Clock, my personal site"></a>
 
-Open to **OJT and junior developer roles** in Bulacan, Metro Manila or remote.
+Open to **OJT and junior developer roles** in Metro Manila or Clark.
 
 </div>
 
